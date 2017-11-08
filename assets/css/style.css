@@ -1,0 +1,47 @@
+body {
+	text-align: center;
+	background-color: #EEE;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	line-height: 1.5;
+	color: #333;
+}
+
+h1 {
+	font-size: 30px;
+}
+
+#elements {
+	width: 13em;
+	margin: 0 auto;
+}
+
+button {
+	background-color: #3C8CC5;
+	border-radius: 0.5em;
+	padding: 0.5em 4em;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	margin-top: 2em;
+	color: #FFF;
+	text-transform: uppercase;
+	font-size: 15px;
+}
+
+.info {
+	padding: 0.8em;
+	width: 14em;
+}
+
+#chck {
+	font-size: 12px;
+	line-height: 1.5;
+	color: #333;
+	float: left;
+	margin-top: 1em;
+}
+
+#btn {
+	padding: 0.5em 3em;
+}
